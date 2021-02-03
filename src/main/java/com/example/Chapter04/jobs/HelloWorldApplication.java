@@ -26,8 +26,8 @@ import com.example.Chapter04.batch.HelloWorldTasket;
 import com.example.Chapter04.batch.JobLoggerListener;
 import com.example.Chapter04.batch.ParameterValidator;
 
-@SpringBootApplication
-@EnableBatchProcessing
+/*@SpringBootApplication
+@EnableBatchProcessing*/
 public class HelloWorldApplication {
 
 	@Autowired
